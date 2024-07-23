@@ -9,5 +9,5 @@ return {
   vim.keymap.set('n', '<leader>ö', vim.cmd.Ex),
   vim.keymap.set('n', '<leader>w', vim.cmd.w),
   vim.keymap.set('n', '<leader>i', 'cc'),
-  vim.keymap.set('n', '<leader>f', '<Cmd>Neotree toggle<CR>'),
+  vim.keymap.set('n', '<leader>u', '<Cmd>Neotree toggle<CR>'),
 }
